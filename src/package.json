@@ -1,0 +1,33 @@
+{
+    "app_name": "autoupdater",
+    "main": "index.html",
+    "name": "autoupdater",
+    "version": "0.0.1",
+    "webexe_settings": {
+        "download_dir": "E:\\Users\\advanced_bear\\Documents\\Web2ExeWin\\NWjs",
+        "force_download": false,
+        "mac-x64": false,
+        "nw_compression_level": 0,
+        "nw_version": "0.26.6",
+        "sdk_build": false,
+        "uncompressed_folder": false,
+        "windows-x32": true,
+        "windows-x64": false
+    },
+    "webkit": {},
+    "window": {
+        "always_on_top": true,
+        "frame": false,
+        "height": 240,
+        "icon": "icon.png",
+        "id": "src",
+        "mac_icon": "icon.png",
+        "max_height": 240,
+        "max_width": 480,
+        "min_height": 240,
+        "min_width": 480,
+        "resizable": false,
+        "title": "TwitchTalkApp - AutoUpdater",
+        "width": 480
+    }
+}
