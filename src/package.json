@@ -2,7 +2,7 @@
     "app_name": "autoupdater",
     "main": "index.html",
     "name": "autoupdater",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "webexe_settings": {
         "download_dir": "E:\\Users\\advanced_bear\\Documents\\Web2ExeWin\\NWjs",
         "force_download": false,
